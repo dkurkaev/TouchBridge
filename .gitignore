@@ -1,0 +1,14 @@
+# SwiftPM / Xcode
+.build/
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+
+# Built app and icon set (build-app.command, Tools/make-icon.swift)
+build/
+
+# Logs
+*.log
+
+.DS_Store
