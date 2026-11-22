@@ -138,3 +138,7 @@ cd TouchBridge
 систему не отправляются; среди них — реальные записи сбоев контроллера): `Tools/run-gesture-tests.sh`.
 
 Пересобрать иконку: `swift Tools/make-icon.swift`.
+
+## Лицензия
+
+[MIT](LICENSE)
